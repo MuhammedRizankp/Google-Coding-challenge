@@ -1,6 +1,7 @@
 def rptchtr(string):
        
-       strlen=len(string)
+       
+	strlen=len(string)
        flag=0
        for i in range(0,strlen):
           if flag==1:
