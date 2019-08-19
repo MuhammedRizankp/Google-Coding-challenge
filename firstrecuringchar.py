@@ -2,7 +2,7 @@ def rptchtr(string):
        
        
 strlen=len(string)
-       flag=0
+   flag=0
        for i in range(0,strlen):
           if flag==1:
 	     break
